@@ -1,6 +1,6 @@
 <h3>A passionate full-stack developer from Austria</h3>
 
-🔭 I’m currently working on [Sports Companion](sportscompanion.online)
+🔭 I’m currently working on [Sports Companion](www.sportscompanion.online)
 
 <h3 align="left">Connect with me:</h3>
 
