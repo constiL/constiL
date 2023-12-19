@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **colerner@me.com**
 
-- ⚡ Fun fact **I love Lego** ![BluebrickLegoGIF](https://github.com/constiL/constiL/assets/131664286/102e6db1-cfa6-4f15-b8df-867b5276943d)
+- ⚡ Fun fact **I love Lego**
 
 
 <h3 align="left">Languages and Tools:</h3>
