@@ -1,4 +1,4 @@
-Helloo 👋
+<h1> Helloo 👋 </h1>
 
 <h3>A passionate full-stack developer from Austria</h3>
 
