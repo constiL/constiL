@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **colerner@me.com**
-
 - ⚡ Fun fact **I love Lego🤣**
 
 
