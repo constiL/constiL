@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **colerner@me.com**
 
-- ⚡ Fun fact **I love Lego**
+- ⚡ Fun fact **I love Lego🤣**
 
 
 <h3 align="left">Languages and Tools:</h3>
