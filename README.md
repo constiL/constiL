@@ -1,4 +1,5 @@
-<h3 align="center">I'm a passionate full-stack developer from Vienna</h3>
+<h1 align="center">Helloo 👋</h1>
+<h3>I'm a passionate full-stack developer from Vienna</h3>
 
 - 🔭 I’m currently working to **improve my skills in Ruby, Ruby on Rails, CSS and JavaScript**
 
