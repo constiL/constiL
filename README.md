@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 My LinkedIn [https://www.linkedin.com/in/constantin-lerner/](https://www.linkedin.com/in/constantin-lerner/)
-
 - 📫 How to reach me **colerner@me.com**
 
 - ⚡ Fun fact **I love Lego, and everything sci-fi & fantasy related**
