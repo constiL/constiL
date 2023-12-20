@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working to **improve my skills in Ruby, Ruby on Rails, CSS and JavaScript**
 
-- 📫 How to reach me **colerner@me.com**
-
 <p>My bootcamp projects: </p>
 
 <ul>
@@ -41,6 +39,6 @@ const ConstantinLerner = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/constantin-lerner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="constantin-lerner" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/constantin-lerner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="constantin-lerner" height="30" width="40" /></a>
+<a href="https://instagram.com/constil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="constil" height="30" width="40" /></a>
 </p>
 </p>
