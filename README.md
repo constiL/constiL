@@ -10,7 +10,7 @@
 
 <ul>
   <li><a href="https://github.com/constiL/FILM_LOCATION_FINDER">Film Location Finder</a> : an Airbnb clone.</li>
-  <li><a href="https://github.com/Jshedds/SPORTS_COMPANION">Sports Companion</a> : a sports education app.</li>
+  <li><a href="https://github.com/Jshedds/SPORTS_COMPANION">Sports Companion</a> : Sports education app.</li>
 </ul>
 
 **More about me:**
