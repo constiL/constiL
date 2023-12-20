@@ -20,7 +20,7 @@ const ConstantinLerner = {
   currentlyLearning: ["C++", "Unreal5"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Ruby on Rails"],
   hobbies: "Lego, and everything sci-fi & fantasy related",
-  funFact: "I have 4 cats 😹",
+  funFact: "I have 4 😻",
   pastExperience: [
     {
       company : "Bitpanda",
