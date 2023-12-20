@@ -1,6 +1,6 @@
-### Hello There👋 I'm Conny
+<h2>Hello There👋 I'm Conny</h2>
 
-<h4>I'm a passionate full-stack developer from Vienna</h4>
+<h3>I'm a passionate full-stack developer from Vienna</h3>
 
 - 🔭 I’m currently working to **improve my skills in Ruby, Ruby on Rails, CSS and JavaScript**
 
