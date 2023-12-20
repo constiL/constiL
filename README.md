@@ -4,7 +4,7 @@
 
 I'm a passionate coder exploring the world of web development, with an intrigue in game design
 
-<p>Bootcamp projects: </p>
+### 💻 Bootcamp projects
 
   <ul>
     <li list-style-type="none"><a href="https://github.com/constiL/FILM_LOCATION_FINDER">Film Location Finder</a>
@@ -28,7 +28,7 @@ I'm a passionate coder exploring the world of web development, with an intrigue 
 
 #
 
-### More about me:
+### 👨‍💻 Profile
 
 ```javascript
   const ConstantinLerner = {
@@ -38,7 +38,7 @@ I'm a passionate coder exploring the world of web development, with an intrigue 
     codesIn: ["HTML", "CSS", "Ruby"],
     currentlyLearning: ["C++", "Unreal5"],
     toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Ruby on Rails"],
-    hobbies: "Lego, and everything sci-fi & fantasy related",
+    hobbies: "LEGO, and everything sci-fi & fantasy related",
     funFact: "I have 4 cats",
     pastExperience: [
       {
