@@ -4,11 +4,11 @@
 
 I'm a passionate coder exploring the world of web development, with an intrigue in game design
 
-<p>My bootcamp projects: </p>
+<p>Bootcamp projects: </p>
 
   <ul>
-    <li list-style-type="none"><a href="https://github.com/constiL/FILM_LOCATION_FINDER">Film Location Finder</a> - Airbnb clone</li>
-    <li><a href="https://github.com/Jshedds/SPORTS_COMPANION">Sports Companion</a>, Sports education app</li>
+    <li list-style-type="none"><a href="https://github.com/constiL/FILM_LOCATION_FINDER">Film Location Finder</a>
+    <li><a href="https://github.com/Jshedds/SPORTS_COMPANION">Sports Companion</a>
   </ul>
 
 ---
@@ -49,8 +49,3 @@ I'm a passionate coder exploring the world of web development, with an intrigue 
     ],
   };
 ```
-
-<details>
- <summary><h3>My Coding Journey</h3></summary>
-I'm a budding full-stack developer with a background in Operations Management and a passion for tech innovation. My recent journey includes completing Le Wagon's Web Development Bootcamp, redirecting my career towards the dynamic realm of full-stack development. During my time as an Operations Manager at Bitpanda, I specialized in ensuring a seamless and secure trading experience. Responsibilities included orchestrating successful product launches and navigating the intricacies of fraud detection in a high-volume transaction environment. Through this role, I cultivated a strong foundation in problem-solving and risk management, showcasing a keen eye for detail and a commitment to security. Now, as I embark on this exciting journey into full-stack development, my goal is to leverage these skills and my newfound expertise in web development to create seamless and innovative digital experiences.
- 
