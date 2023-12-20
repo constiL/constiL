@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 I'm a passionate full-stack developer from Vienna</h3>
+<h3> 👋 I'm a passionate full-stack developer from Vienna</h3>
 
 - 🌱 I’m currently learning **C++**, while improving my skills on **Ruby**, **CSS** and **JavaScript**
 
