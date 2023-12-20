@@ -1,7 +1,6 @@
-<h2> Hello World!👋 </h2>
+# Hello World!👋 
 
-<h3>I'm a passionate full-stack developer from Vienna</h3>
-
+**'passionate full-stack developer from Vienna'**
 <p>My bootcamp projects: </p>
 
 <ul>
