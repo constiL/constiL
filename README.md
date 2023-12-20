@@ -6,18 +6,12 @@
 
 - 📫 How to reach me **colerner@me.com**
 
-- ⚡ Fun fact **I love Lego, and everything sci-fi & fantasy related**
-
 <p>My bootcamp projects: </p>
 
 <ul>
   <li><a href="https://github.com/constiL/FILM_LOCATION_FINDER">Film Location Finder</a> : an Airbnb clone.</li>
   <li><a href="https://github.com/Jshedds/SPORTS_COMPANION">Sports Companion</a> : a sports education app.</li>
 </ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 **More about me:**
 
