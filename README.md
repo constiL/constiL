@@ -1,11 +1,17 @@
-<h3> 👋 I'm a passionate full-stack developer from Vienna</h3>
+<h3 align="center">I'm a passionate full-stack developer from Vienna</h3>
 
-- 🌱 I’m currently learning **C++**, while improving my skills on **Ruby**, **CSS** and **JavaScript**
+- 🔭 I’m currently working to **improve my skills in Ruby, Ruby on Rails, CSS and JavaScript**
 
-- ⚡ Fun fact **I love Lego, and everything sci/fi & fantasy related**
-  
+- 🌱 I’m currently learning **C++**
+
+- 📫 My LinkedIn [https://www.linkedin.com/in/constantin-lerner/](https://www.linkedin.com/in/constantin-lerner/)
+
 - 📫 How to reach me **colerner@me.com**
-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/constantin-lerner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/constantin-lerner/" height="30" width="40" /></a>
+
+- ⚡ Fun fact **I love Lego, and everything sci-fi & fantasy related**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
