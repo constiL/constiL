@@ -15,12 +15,12 @@
 const ConstantinLerner = {
   availableForHire: true,
   education: "Le Wagon, a 9-week full-time intensive online web development bootcamp",
-  otherAlias': ["Conny", "Consti", "Concho"],
+  otherAliases: ["Conny", "Consti", "Concho"],
   codesIn: ["HTML", "CSS", "Ruby"],
   currentlyLearning: ["C++", "Unreal5"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Ruby on Rails"],
   hobbies: "Lego, and everything sci-fi & fantasy related"
-  funFact: "I have 4 cats 😹"
+  funFact: "I have 4 cats 😹",
   pastExperience: [
     {
       company : "Bitpanda",
@@ -28,7 +28,7 @@ const ConstantinLerner = {
       duration : "3 and a half years"
     },
   ],
-}
+};
 ```
 
 <h3 align="left">Languages and Tools:</h3>
