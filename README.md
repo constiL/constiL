@@ -1,6 +1,6 @@
 <h3 align="center"> 👋 I'm a passionate full-stack developer from Vienna</h3>
 
-- 🌱 I’m currently learning **C++, while improving my skills on Ruby, CSS and JavaScript**
+- 🌱 I’m currently learning **C++**, while improving my skills on **Ruby**, **CSS** and **JavaScript**
 
 - ⚡ Fun fact **I love Lego, and everything sci/fi & fantasy related**
   
