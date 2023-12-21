@@ -1,6 +1,6 @@
 # Hello World!👋
 
-**`Full-Stack Developer`**
+**`Full-Stack Developer` `Game Dev Enthusiast`**
 
 I'm a passionate coder exploring the world of web development, with an intrigue in game design
 
