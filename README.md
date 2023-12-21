@@ -35,16 +35,16 @@ I'm a passionate coder exploring the world of web development, with an intrigue 
     availableForHire: true,
     education: "Le Wagon, a 9-week full-time intensive online web development bootcamp",
     otherAliases: ["Conny", "Consti", "Concho"],
-    codesIn: ["HTML", "CSS", "Ruby"],
+    codesIn: ["HTML", "CSS", "Ruby", "C#"],
     currentlyLearning: ["C++", "Unreal5"],
-    toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Ruby on Rails"],
+    toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
     hobbies: "LEGO, and everything sci-fi & fantasy related",
     funFact: "I have 4 cats",
     pastExperience: [
       {
-        company : "Bitpanda",
-        post : "Operations Manager",
-        duration : "3 and a half years"
+        company: "Bitpanda",
+        role: "Operations Manager",
+        duration: "3 and a half years"
       },
     ],
   };
