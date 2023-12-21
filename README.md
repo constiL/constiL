@@ -15,8 +15,6 @@ Feel free to explore, collaborate, or just hang around! 🚀
     <li><a href="https://github.com/Jshedds/SPORTS_COMPANION">Sports Companion</a>
   </ul>
 
-### <a style="none" color="white" href="https://github.com/constiL/Resume/blob/f030264a1cc7bb47b07897f49260997fc13466a6/CV.draft.pdf">📄 Resume</a>
-
 ### 🧰 Languages and Tools
   <img align="left" alt="ruby" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>
   <img align="left" alt="rails" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"/>
@@ -54,6 +52,4 @@ Feel free to explore, collaborate, or just hang around! 🚀
     ],
   };
 ```
-
-
 
