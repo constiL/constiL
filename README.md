@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer` `Game Dev Enthusiast`**
 
-I'm a passionate coder exploring the world of web development, with an intrigue in game design
+I'm a passionate coder exploring the world of web development, with an intrigue in game design. Actively seeking opportunities to apply and expand my skills, I bring a dynamic blend of creativity and technical know-how to every project.
 
 ### 💻 Bootcamp projects
 
