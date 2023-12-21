@@ -38,7 +38,7 @@ I'm a passionate coder exploring the world of web development, with an intrigue 
     codesIn: ["HTML", "CSS", "Ruby"],
     currentlyLearning: ["C++", "C#", "Unreal5"],
     toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Cloudinary"],
-    hobbies: "LEGO, everything sci-fi & fantasy related",
+    hobbies: "LEGO and everything sci-fi & fantasy related",
     funFact: "I have 4 cats",
     pastExperience: [
       {
