@@ -53,7 +53,5 @@ Feel free to explore, collaborate, or just hang around! 🚀
   };
 ```
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=constiL)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
