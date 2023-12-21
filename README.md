@@ -11,7 +11,7 @@ I'm a passionate coder exploring the world of web development, with an intrigue 
     <li><a href="https://github.com/Jshedds/SPORTS_COMPANION">Sports Companion</a>
   </ul>
 
----
+#
 ### 🧰 Languages and Tools
   <img align="left" alt="cplusplus" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
