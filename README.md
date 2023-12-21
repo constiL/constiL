@@ -37,7 +37,7 @@ I'm a passionate coder exploring the world of web development, with an intrigue 
     otherAliases: ["Conny", "Consti", "Concho"],
     codesIn: ["HTML", "CSS", "Ruby", "C#"],
     currentlyLearning: ["C++", "Unreal5"],
-    toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
+    toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Cloudinary"],
     hobbies: "LEGO, and everything sci-fi & fantasy related",
     funFact: "I have 4 cats",
     pastExperience: [
