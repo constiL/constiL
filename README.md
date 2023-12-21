@@ -35,10 +35,10 @@ I'm a passionate coder exploring the world of web development, with an intrigue 
     availableForHire: true,
     education: "Le Wagon, a 9-week full-time intensive online web development bootcamp",
     otherAliases: ["Conny", "Consti", "Concho"],
-    codesIn: ["HTML", "CSS", "Ruby", "C#"],
-    currentlyLearning: ["C++", "Unreal5"],
+    codesIn: ["HTML", "CSS", "Ruby"],
+    currentlyLearning: ["C++", "C#", "Unreal5"],
     toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Cloudinary"],
-    hobbies: "LEGO, and everything sci-fi & fantasy related",
+    hobbies: "LEGO, everything sci-fi & fantasy related",
     funFact: "I have 4 cats",
     pastExperience: [
       {
