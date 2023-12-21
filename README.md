@@ -2,7 +2,11 @@
 
 **`Full-Stack Developer` `Game Dev Enthusiast`**
 
-I'm a passionate coder exploring the world of web development, with an intrigue in game design.
+I recently completed a rigorous 9-week intensive web development bootcamp at Le Wagon. With a solid background spanning three years in fintech, I bring a unique blend of financial acumen and coding prowess to the table.
+
+My passion for game development fuels my coding journey. Beyond the fintech landscape, I'm on a quest to explore the exciting world of game design. Join me as I share my experiences, projects, and the intersection of finance, technology, and the immersive realm of game development.
+
+Feel free to explore, collaborate, or just hang around! 🚀
 
 ### 💻 Bootcamp projects
 
